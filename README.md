@@ -13,28 +13,10 @@ This is my personal portfolio website where I present my projects, skills, and e
 - HTML5: Markup language for structuring the content.
 - CSS3: Styling and layout.
 
-## Installation
-To view the portfolio locally, follow these steps:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/your-portfolio-repo.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd your-portfolio-repo
-Open index.html in your preferred web browser.
-
-
-Contributing
+## Contributing
 Contributions are welcome! If you have any ideas or improvements, please feel free to fork the repository and submit a pull request.
 
-
-
-Contact
+## Contact
 If you have any questions or feedback, feel free to contact me at:
 
 - Email: suyashsharma974@gmail.com
